@@ -25,6 +25,7 @@ pnpm-debug.log*
 
 # Editor and local tool state
 .codex/
+.vscode/mcp.json
 .vscode/*.local.json
 .vscode/settings.json
 
