@@ -9,6 +9,8 @@ out/
 .nuxt/
 .svelte-kit/
 coverage/
+src-tauri/target/
+src-tauri/gen/
 
 # Environment and local secret files
 .env
